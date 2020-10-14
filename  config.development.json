@@ -1,0 +1,17 @@
+{
+    "database": {
+        "client": "sqlite3",
+        "connection": {
+            "filename": "./.data/data.db"
+        },
+        "debug": true
+      },
+      "paths": {
+        "contentPath": "content/"
+      },
+      "server": {
+        "host": "88.198.9.143",
+        "port": 3004
+      },
+      "url": "http://blog.arigata9.de"
+  }
